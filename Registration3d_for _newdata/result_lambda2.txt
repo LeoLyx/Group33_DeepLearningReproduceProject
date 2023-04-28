@@ -1,0 +1,372 @@
+the 0 th run
+Total of neg Jet: 112.26084
+Ratio of neg Jet: 0.0005562375014526112
+Avg. dice on 28 structures: 0.8725903889325671
+the 1 th run
+Total of neg Jet: 4.939543
+Ratio of neg Jet: 1.4766060564178688e-05
+Avg. dice on 28 structures: 0.8820159469570357
+the 2 th run
+Total of neg Jet: 28.17699
+Ratio of neg Jet: 6.999112707420698e-05
+Avg. dice on 28 structures: 0.871393507748256
+the 3 th run
+Total of neg Jet: 69.5522
+Ratio of neg Jet: 0.000471184992602942
+Avg. dice on 28 structures: 0.8608243951376703
+the 4 th run
+Total of neg Jet: 247.56026
+Ratio of neg Jet: 0.0007006495737702788
+Avg. dice on 28 structures: 0.865959118875218
+the 5 th run
+Total of neg Jet: 210.39783
+Ratio of neg Jet: 0.0007422898645612627
+Avg. dice on 28 structures: 0.862689739255932
+the 6 th run
+Total of neg Jet: 29.670488
+Ratio of neg Jet: 9.509343003331075e-05
+Avg. dice on 28 structures: 0.8685749007098954
+the 7 th run
+Total of neg Jet: 31.059343
+Ratio of neg Jet: 7.914608462399777e-05
+Avg. dice on 28 structures: 0.8811037722166463
+the 8 th run
+Total of neg Jet: 29.046066
+Ratio of neg Jet: 9.420746639946003e-05
+Avg. dice on 28 structures: 0.861120299332582
+the 9 th run
+Total of neg Jet: 7.1538506
+Ratio of neg Jet: 2.5840605987312704e-05
+Avg. dice on 28 structures: 0.8767651656432588
+the 10 th run
+Total of neg Jet: 17.550392
+Ratio of neg Jet: 4.149263018534212e-05
+Avg. dice on 28 structures: 0.8845327644122243
+the 11 th run
+Total of neg Jet: 92.08512
+Ratio of neg Jet: 0.00042954470181195807
+Avg. dice on 28 structures: 0.8597521450703853
+the 12 th run
+Total of neg Jet: 51.182507
+Ratio of neg Jet: 0.00010661095727337013
+Avg. dice on 28 structures: 0.8689213520816823
+the 13 th run
+Total of neg Jet: 51.892532
+Ratio of neg Jet: 9.937558759692258e-05
+Avg. dice on 28 structures: 0.8791964529339483
+the 14 th run
+Total of neg Jet: 33.76886
+Ratio of neg Jet: 0.00011798082390778773
+Avg. dice on 28 structures: 0.859506706988952
+the 15 th run
+Total of neg Jet: 14.861104
+Ratio of neg Jet: 8.564315127223639e-05
+Avg. dice on 28 structures: 0.8706841363955217
+the 16 th run
+Total of neg Jet: 20.585606
+Ratio of neg Jet: 5.74399755946551e-05
+Avg. dice on 28 structures: 0.8850803652994801
+the 17 th run
+Total of neg Jet: 12.365372
+Ratio of neg Jet: 3.4700242325819916e-05
+Avg. dice on 28 structures: 0.8774484115705746
+the 18 th run
+Total of neg Jet: 84.099884
+Ratio of neg Jet: 0.00015489597531823443
+Avg. dice on 28 structures: 0.8350154588293525
+the 19 th run
+Total of neg Jet: 18.37865
+Ratio of neg Jet: 6.142681194698334e-05
+Avg. dice on 28 structures: 0.8812926025407022
+the 20 th run
+Total of neg Jet: 48.402924
+Ratio of neg Jet: 8.239461794811709e-05
+Avg. dice on 28 structures: 0.880184397280391
+the 21 th run
+Total of neg Jet: 140.60086
+Ratio of neg Jet: 0.000621503489146281
+Avg. dice on 28 structures: 0.836122745657631
+the 22 th run
+Total of neg Jet: 34.169632
+Ratio of neg Jet: 8.357590279325138e-05
+Avg. dice on 28 structures: 0.8723067046888995
+the 23 th run
+Total of neg Jet: 17.448635
+Ratio of neg Jet: 5.8178278622864036e-05
+Avg. dice on 28 structures: 0.8559288209423243
+the 24 th run
+Total of neg Jet: 20.399979
+Ratio of neg Jet: 4.9170981678715034e-05
+Avg. dice on 28 structures: 0.8798521934527425
+the 25 th run
+Total of neg Jet: 41.223515
+Ratio of neg Jet: 0.00025855372047876884
+Avg. dice on 28 structures: 0.8528671059165797
+the 26 th run
+Total of neg Jet: 72.70859
+Ratio of neg Jet: 0.00017379653284038316
+Avg. dice on 28 structures: 0.8658774804427903
+the 27 th run
+Total of neg Jet: 42.413334
+Ratio of neg Jet: 8.697209672301247e-05
+Avg. dice on 28 structures: 0.8365159745826949
+the 28 th run
+Total of neg Jet: 21.9494
+Ratio of neg Jet: 5.256717560847613e-05
+Avg. dice on 28 structures: 0.878752320166545
+the 29 th run
+Total of neg Jet: 30.18091
+Ratio of neg Jet: 7.191071494755021e-05
+Avg. dice on 28 structures: 0.8763209826576235
+the 30 th run
+Total of neg Jet: 84.957184
+Ratio of neg Jet: 0.0005801585195665807
+Avg. dice on 28 structures: 0.8593657091099336
+the 31 th run
+Total of neg Jet: 55.01123
+Ratio of neg Jet: 0.00010793990272414622
+Avg. dice on 28 structures: 0.8782294814137809
+the 32 th run
+Total of neg Jet: 16.985214
+Ratio of neg Jet: 6.157447255262513e-05
+Avg. dice on 28 structures: 0.8550466266901449
+the 33 th run
+Total of neg Jet: 61.535503
+Ratio of neg Jet: 0.0002544192235207988
+Avg. dice on 28 structures: 0.860392915478923
+the 34 th run
+Total of neg Jet: 16.820011
+Ratio of neg Jet: 5.0647587735132906e-05
+Avg. dice on 28 structures: 0.882640450343673
+the 35 th run
+Total of neg Jet: 43.26637
+Ratio of neg Jet: 0.00016582286013572668
+Avg. dice on 28 structures: 0.8723624918395811
+the 36 th run
+Total of neg Jet: 24.74358
+Ratio of neg Jet: 5.552038772131187e-05
+Avg. dice on 28 structures: 0.8732672561543037
+the 37 th run
+Total of neg Jet: 21.367165
+Ratio of neg Jet: 5.847359983414761e-05
+Avg. dice on 28 structures: 0.8789941147110538
+the 38 th run
+Total of neg Jet: 70.65822
+Ratio of neg Jet: 0.0003570433444418407
+Avg. dice on 28 structures: 0.8488716064762138
+the 39 th run
+Total of neg Jet: 413.685
+Ratio of neg Jet: 0.0016762431952455647
+Avg. dice on 28 structures: 0.8442421778379494
+the 40 th run
+Total of neg Jet: 227.98071
+Ratio of neg Jet: 0.0009078174034857058
+Avg. dice on 28 structures: 0.8578985079932534
+the 41 th run
+Total of neg Jet: 13.203746
+Ratio of neg Jet: 3.396193929761099e-05
+Avg. dice on 28 structures: 0.8586581976319876
+the 42 th run
+Total of neg Jet: 21.416397
+Ratio of neg Jet: 5.197653318590898e-05
+Avg. dice on 28 structures: 0.8653194706218861
+the 43 th run
+Total of neg Jet: 301.4285
+Ratio of neg Jet: 0.001378854735483006
+Avg. dice on 28 structures: 0.8459129878445777
+the 44 th run
+Total of neg Jet: 22.624763
+Ratio of neg Jet: 0.00010321476334360903
+Avg. dice on 28 structures: 0.8666081539788423
+the 45 th run
+Total of neg Jet: 122.20764
+Ratio of neg Jet: 0.0005318735015217164
+Avg. dice on 28 structures: 0.8562304550919009
+the 46 th run
+Total of neg Jet: 48.22998
+Ratio of neg Jet: 9.228787852611681e-05
+Avg. dice on 28 structures: 0.8787474482663062
+the 47 th run
+Total of neg Jet: 21.823566
+Ratio of neg Jet: 4.828501804486431e-05
+Avg. dice on 28 structures: 0.878850371393555
+the 48 th run
+Total of neg Jet: 89.71388
+Ratio of neg Jet: 0.0005315781803104328
+Avg. dice on 28 structures: 0.8642316533188282
+the 49 th run
+Total of neg Jet: 67.00272
+Ratio of neg Jet: 0.00018058892069990537
+Avg. dice on 28 structures: 0.865402999651104
+the 50 th run
+Total of neg Jet: 19.996355
+Ratio of neg Jet: 5.832593922850582e-05
+Avg. dice on 28 structures: 0.8796384170148341
+the 51 th run
+Total of neg Jet: 50.83088
+Ratio of neg Jet: 0.00010055687244205688
+Avg. dice on 28 structures: 0.8663253683326966
+the 52 th run
+Total of neg Jet: 19.743122
+Ratio of neg Jet: 0.00010129517547026581
+Avg. dice on 28 structures: 0.8654963001886988
+the 53 th run
+Total of neg Jet: 13.509565
+Ratio of neg Jet: 4.607010896023751e-05
+Avg. dice on 28 structures: 0.8709551943931065
+the 54 th run
+Total of neg Jet: 10.037642
+Ratio of neg Jet: 3.174703021298418e-05
+Avg. dice on 28 structures: 0.8810983227938649
+the 55 th run
+Total of neg Jet: 173.6135
+Ratio of neg Jet: 0.0011146899119898492
+Avg. dice on 28 structures: 0.8555175230151219
+the 56 th run
+Total of neg Jet: 30.733925
+Ratio of neg Jet: 6.64472725388041e-05
+Avg. dice on 28 structures: 0.885501724654647
+the 57 th run
+Total of neg Jet: 142.3092
+Ratio of neg Jet: 0.000488461283463031
+Avg. dice on 28 structures: 0.8608779889978674
+the 58 th run
+Total of neg Jet: 13.586693
+Ratio of neg Jet: 3.3518957480685625e-05
+Avg. dice on 28 structures: 0.8862758715194669
+the 59 th run
+Total of neg Jet: 15.776693
+Ratio of neg Jet: 2.9236799917073805e-05
+Avg. dice on 28 structures: 0.8702608792911759
+the 60 th run
+Total of neg Jet: 64.85242
+Ratio of neg Jet: 0.00013378050871145893
+Avg. dice on 28 structures: 0.8678091426387875
+the 61 th run
+Total of neg Jet: 27.06207
+Ratio of neg Jet: 5.9507224073640113e-05
+Avg. dice on 28 structures: 0.8817784499697187
+the 62 th run
+Total of neg Jet: 117.145706
+Ratio of neg Jet: 0.0004311689684740177
+Avg. dice on 28 structures: 0.8699444247653523
+the 63 th run
+Total of neg Jet: 16.607666
+Ratio of neg Jet: 5.109056955205826e-05
+Avg. dice on 28 structures: 0.8689110619919908
+the 64 th run
+Total of neg Jet: 21.498428
+Ratio of neg Jet: 4.739905441101359e-05
+Avg. dice on 28 structures: 0.8764066500690806
+the 65 th run
+Total of neg Jet: 26.621212
+Ratio of neg Jet: 7.796479977886347e-05
+Avg. dice on 28 structures: 0.8739292935978984
+the 66 th run
+Total of neg Jet: 96.124115
+Ratio of neg Jet: 0.00031924222939754324
+Avg. dice on 28 structures: 0.8687021402046141
+the 67 th run
+Total of neg Jet: 27.58007
+Ratio of neg Jet: 7.176305434190843e-05
+Avg. dice on 28 structures: 0.8731092556388035
+the 68 th run
+Total of neg Jet: 40.930077
+Ratio of neg Jet: 0.0002185376963498446
+Avg. dice on 28 structures: 0.8696757707842747
+the 69 th run
+Total of neg Jet: 21.257011
+Ratio of neg Jet: 5.3453139242326854e-05
+Avg. dice on 28 structures: 0.8814114704786051
+the 70 th run
+Total of neg Jet: 152.03503
+Ratio of neg Jet: 0.0007558746402803071
+Avg. dice on 28 structures: 0.8571290619685678
+the 71 th run
+Total of neg Jet: 21.005304
+Ratio of neg Jet: 6.940048465163983e-05
+Avg. dice on 28 structures: 0.8650915568414851
+the 72 th run
+Total of neg Jet: 48.130222
+Ratio of neg Jet: 6.910516344035627e-05
+Avg. dice on 28 structures: 0.87546192098175
+the 73 th run
+Total of neg Jet: 22.096565
+Ratio of neg Jet: 8.682443611737069e-05
+Avg. dice on 28 structures: 0.8721606890499254
+the 74 th run
+Total of neg Jet: 169.5593
+Ratio of neg Jet: 0.0007480486281812924
+Avg. dice on 28 structures: 0.8608525131149584
+the 75 th run
+Total of neg Jet: 63.759212
+Ratio of neg Jet: 0.000358224629286975
+Avg. dice on 28 structures: 0.8479605020558364
+the 76 th run
+Total of neg Jet: 11.034576
+Ratio of neg Jet: 3.588152717095421e-05
+Avg. dice on 28 structures: 0.8751376871728126
+the 77 th run
+Total of neg Jet: 23.623947
+Ratio of neg Jet: 6.629961193316231e-05
+Avg. dice on 28 structures: 0.8751444068949609
+the 78 th run
+Total of neg Jet: 5.059263
+Ratio of neg Jet: 1.3141793902119033e-05
+Avg. dice on 28 structures: 0.8702032169511985
+the 79 th run
+Total of neg Jet: 87.32292
+Ratio of neg Jet: 0.00022237687209653104
+Avg. dice on 28 structures: 0.8647392750789346
+the 80 th run
+Total of neg Jet: 85.42427
+Ratio of neg Jet: 0.00031894690818625967
+Avg. dice on 28 structures: 0.8678984876754335
+the 81 th run
+Total of neg Jet: 34.145355
+Ratio of neg Jet: 0.0001859047025030097
+Avg. dice on 28 structures: 0.8549846717270754
+the 82 th run
+Total of neg Jet: 178.01953
+Ratio of neg Jet: 0.0009741170154188682
+Avg. dice on 28 structures: 0.8587648277673476
+the 83 th run
+Total of neg Jet: 169.4307
+Ratio of neg Jet: 0.0008831580823435274
+Avg. dice on 28 structures: 0.8536327993540179
+the 84 th run
+Total of neg Jet: 21.02055
+Ratio of neg Jet: 6.068850891877441e-05
+Avg. dice on 28 structures: 0.8692663087691453
+the 85 th run
+Total of neg Jet: 18.590126
+Ratio of neg Jet: 9.199255731483324e-05
+Avg. dice on 28 structures: 0.8668760388735334
+the 86 th run
+Total of neg Jet: 41.189625
+Ratio of neg Jet: 9.199255731483324e-05
+Avg. dice on 28 structures: 0.8722577862435718
+the 87 th run
+Total of neg Jet: 20.556154
+Ratio of neg Jet: 0.00011074545423134016
+Avg. dice on 28 structures: 0.8558445414401421
+the 88 th run
+Total of neg Jet: 50.981422
+Ratio of neg Jet: 0.00010867820575235515
+Avg. dice on 28 structures: 0.8671711356297015
+the 89 th run
+Total of neg Jet: 125.49884
+Ratio of neg Jet: 0.0005529889681284919
+Avg. dice on 28 structures: 0.8467102516757501
+the 90 th run
+Total of neg Jet: 27.740765
+Ratio of neg Jet: 5.803061801722225e-05
+Avg. dice on 28 structures: 0.8734872095120778
+the 91 th run
+Total of neg Jet: 114.90138
+Ratio of neg Jet: 0.0003641310535126465
+Avg. dice on 28 structures: 0.8490595804360509
+the 92 th run
+Total of neg Jet: 277.4975
+Ratio of neg Jet: 0.0014958019351513012
+Avg. dice on 28 structures: 0.8579537237683506
